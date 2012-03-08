@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="OraclePlugin/src"/>
+	<classpathentry kind="lib" path="OraclePlugin/lib/swt.jar"/>
+	<classpathentry kind="lib" path="OraclePlugin/oracle/lib/clhm-release-1.0-lru.jar"/>
+	<classpathentry kind="lib" path="OraclePlugin/oracle/lib/commons-dbcp-1.2.2.jar"/>
+	<classpathentry kind="lib" path="OraclePlugin/oracle/lib/commons-pool-1.4.jar"/>
+	<classpathentry kind="lib" path="OraclePlugin/oracle/lib/javolution-5.4.3.jar"/>
+	<classpathentry kind="lib" path="OraclePlugin/oracle/lib/ofbiz-base.jar"/>
+	<classpathentry kind="lib" path="OraclePlugin/oracle/lib/ofbiz.jar"/>
+	<classpathentry kind="lib" path="OraclePlugin/oracle/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="OraclePlugin/oracle/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="OraclePlugin/oracle/lib/smack.jar"/>
+	<classpathentry kind="lib" path="OraclePlugin/oracle/lib/smackx.jar"/>
+	<classpathentry kind="lib" path="OraclePlugin/oracle/RealOracle2.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="OraclePlugin/bin"/>
+</classpath>
